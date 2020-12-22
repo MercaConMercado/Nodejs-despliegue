@@ -79,12 +79,14 @@ ngonx ( SERVIDOR QUE REDIRECCIONA, PROXY SERVER)
 -   nano resapi-tareas
     agregar :
     
+ // aqui el direccionamiento que queremos que redireccione cunado abran las url www.mercaconmercado.com api.mercaconmercado.com ... etc
+    
 server {
-        listen 80; // puerto
-        server_name 192.168.0.113; // aqui el direccionamiento que queremos que redireccione cunado abran las url www.mercaconmercado.com api.mercaconmercado.com ... etc
+        listen 80; 
+        server_name 192.168.0.113; 
 
         location / {
-                proxy_pass http://localhost:5000; // 
+                proxy_pass http://localhost:5000; 
                 proxy_http_version 1.1;
                 proxy_set_header Upgrade $http_upgrade;
                 proxy_set_header Connection 'upgrade';
