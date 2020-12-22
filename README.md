@@ -80,7 +80,7 @@ ngonx ( SERVIDOR QUE REDIRECCIONA, PROXY SERVER)
     agregar :
     
  // aqui el direccionamiento que queremos que redireccione cunado abran las url www.mercaconmercado.com api.mercaconmercado.com ... etc
-    
+<pre><code>  
 server {
         listen 80; 
         server_name 192.168.0.113; 
@@ -94,6 +94,7 @@ server {
                 proxy_cache_bypass $http_upgrade;
         }
 }
+</pre></code>  
 
 -   sudo nginx -t (mirar si quedo bien la sintaxis de arriba)
 -   sudo ln -s /etc/nginx/sites-available/resapi-tareas /etc/nginx/sites-enabled/resapi-tareas (copear archivo de configuracion a el ya habilitado)
