@@ -24,7 +24,7 @@ GIT
 -	git status
 -	git add .
 -	git status
--	git commit –m “despliegue de la aplicación V1 subida”
+-	git commit -m “despliegue de la aplicación V1 subida”
 -	git remote add origin https://github.com/MercaConMercado/resapi-tareas.git (ruta donde está el repositorio de git hub)
 -	git push origin master
 
