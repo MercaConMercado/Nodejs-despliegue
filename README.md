@@ -28,6 +28,21 @@ GIT
 -	git remote add origin https://github.com/MercaConMercado/resapi-tareas.git (ruta donde está el repositorio de git hub)
 -	git push origin master
 
+ OTROS git
+---- git pull (trae todos los cambios hechos)
+---- git clone (trae todo el repositorio)
+git config --global user.email "dmercado@sanmateo.edu.co"
+git config --global user.name "daniel"
+git commit
+ i , agregar comentario , :wq!
+git log
+git checkout -- style.css (devolver cambios al original)
+git diff style.css (ver diferencias de lo que se agrega al archivo)
+git branch (ubicacion de codigo siempre en master)
+git branch version2 (crea otra version alternativa)
+git checkout version2 (acceso a la version alternativa)
+
+
 CONFIGURACION SERVIDOR
 - hostnamectl
 4.	Agregar repositorio del proyecto al servidor
