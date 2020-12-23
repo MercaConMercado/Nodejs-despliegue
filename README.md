@@ -31,8 +31,8 @@ GIT
  OTROS git
 - git pull (trae todos los cambios hechos)
 - git clone (trae todo el repositorio)
-- git config --global user.email "dmercado@sanmateo.edu.co"
-- git config --global user.name "daniel"
+- git config --global user.email "decodermc@gmail.com"
+- git config --global user.name "MercaConMercado"
 - git commit
 - i , agregar comentario , :wq!
 - git log
