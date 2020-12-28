@@ -124,7 +124,7 @@ https://certbot.eff.org/
 -   sudo certbot --nginx -d mercaconmercado.com -d api.mercaconmercado.com (agregar el dominio donde esta ubicado y se debe hacer con cada dominio y subdominio)
 
 
-MODULOS NODE JS instalacion:
+MODULOS NODE JS instalacion:<br>
 Dependencies
 - npm i jsdoc // documentador de codigo JS
 - 
