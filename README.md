@@ -125,9 +125,16 @@ https://certbot.eff.org/
 
 
 MODULOS NODE JS instalacion:<br>
+
 Dependencies
 - npm i jsdoc // documentador de codigo JS
 - 
 
-DevDependencies
+devDependencies
+- npm i nodemon -D // en desarrollo para que quede ejecutando arrancador sin reiniciar
+
+
+COSITAS PARA JS.
+- Revale JS // https://revealjs.com/ // presentation framework
+- Electron // https://www.electronjs.org/ // crear app de escritorio con js
 
