@@ -20,7 +20,7 @@ Crear .girtignore y agregar
 GIT 
 - git --version
 3.	Crear repositorio GIT 
--	 git init
+-	 git init -y
 -	git status
 -	git add .
 -	git status
@@ -125,6 +125,9 @@ https://certbot.eff.org/
 
 
 MODULOS NODE JS instalacion:
-D
-- npm i 
+Dependencies
+- npm i jsdoc // documentador de codigo JS
+- 
+
+DevDependencies
 
