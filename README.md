@@ -14,7 +14,9 @@ Ya con el archivo funcional desde el código hacer:
   },
 
 2.	Definir archivos .gintignore
-Crear .girtignore y agregar 
+Crear .girtignore y 
+
+
  .env , node_modules, dist
  
 GIT 
@@ -128,7 +130,7 @@ MODULOS NODE JS instalacion:<br>
 
 Dependencies
 - npm i jsdoc // documentador de codigo JS
-- 
+-
 
 devDependencies
 - npm i nodemon -D // en desarrollo para que quede ejecutando arrancador sin reiniciar
@@ -137,4 +139,6 @@ devDependencies
 COSITAS PARA JS.
 - Revale JS // https://revealjs.com/ // presentation framework
 - Electron // https://www.electronjs.org/ // crear app de escritorio con js
-
+- MOTORES DE VIDEOJUEGOS
+- GDEVELOP // https://gdevelop-app.com/
+- MELONJS // https://melonjs.org/
