@@ -139,4 +139,19 @@ devDependencies
 COSITAS PARA JS.
 - Revale JS // https://revealjs.com/ // presentation framework
 - Electron // https://www.electronjs.org/ // crear app de escritorio con js
-- MOTORES DE VIDEOJUEGOS: - GDEVELOP // https://gdevelop-app.com/ -  MELONJS // https://melonjs.org/
+- MOTORES DE VIDEOJUEGOS: 
+    - GDEVELOP // https://gdevelop-app.com/ 
+    - MELONJS // https://melonjs.org/
+    - IMPACT // https://impactjs.com/
+    - babylon // https://impactjs.com/
+    - pixijs // https://www.pixijs.com/
+    - pasher // https://phaser.io/
+    - PLAY CANVAS // https://playcanvas.com/
+- 3D api WebGL
+    - threejs // https://threejs.org/
+- Api aduio 
+    - tone js // https://tonejs.github.io/
+    - howlerjs // https://howlerjs.com/
+- Animaciones 
+    - greensock // https://greensock.com/
+- johnny-five. // http://johnny-five.io/ // hardware
