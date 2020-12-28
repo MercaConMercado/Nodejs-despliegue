@@ -154,4 +154,11 @@ COSITAS PARA JS.
     - howlerjs // https://howlerjs.com/
 - Animaciones 
     - greensock // https://greensock.com/
-- johnny-five. // http://johnny-five.io/ // hardware
+- HARDWARE
+    - johnny-five. // http://johnny-five.io/
+    - node-red // https://nodered.org/  
+    - iot js // https://iotjs.net/
+- APP MOVIL
+    - ionic // https://ionicframework.com/
+    - reactnative // https://reactnative.dev/
+
