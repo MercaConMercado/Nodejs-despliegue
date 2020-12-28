@@ -139,6 +139,4 @@ devDependencies
 COSITAS PARA JS.
 - Revale JS // https://revealjs.com/ // presentation framework
 - Electron // https://www.electronjs.org/ // crear app de escritorio con js
-- MOTORES DE VIDEOJUEGOS
-- GDEVELOP // https://gdevelop-app.com/
-- MELONJS // https://melonjs.org/
+- MOTORES DE VIDEOJUEGOS: - GDEVELOP // https://gdevelop-app.com/ -  MELONJS // https://melonjs.org/
